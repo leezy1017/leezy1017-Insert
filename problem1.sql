@@ -1,0 +1,1 @@
+INSERT into Song (Title, Artist) values ('Love Sosa', 'Chief Keef');
